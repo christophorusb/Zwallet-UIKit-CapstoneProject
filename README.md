@@ -17,10 +17,10 @@ A Capstone UIKit Project Submission from my iOS bootcamp. Uses Moya for the netw
    git clone https://github.com/YourUsername/UIKitApp.git
    cd UIKitApp
    ```
-2. **Install the dependencies with CocoaPods
+2. **Install the dependencies with CocoaPods**
 
   ```
   sudo gem install cocoapods
   pod install
   ```
-3. **Open the workspace file and you're all set to go! 🚀🚀🚀
+3. **Open the workspace file and you're all set to go!** 🚀🚀🚀
