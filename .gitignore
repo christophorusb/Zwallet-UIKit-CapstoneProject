@@ -1,0 +1,74 @@
+# Xcode
+##
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.xcscmblueprint
+*.xcuserstate
+
+# Swift Package Manager
+##
+.build/
+Packages/
+Package.pins
+Package.resolved
+.swift-version
+
+# CocoaPods
+##
+Pods/
+# Uncomment this line if you want to checkin your Pods
+# podfile.lock
+
+# Carthage
+##
+Carthage/Build
+
+# macOS
+##
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+##
+._*
+
+# Files that might appear on external disk
+##
+.Spotlight-V100
+.Trashes
+
+# IDE - VSCode
+.vscode/
+
+# IDE - AppCode
+.idea/
+
+# User-specific
+*.swp
+*.swo
+*.swn
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Injection
+injected_container.bundle
